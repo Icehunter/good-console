@@ -16,6 +16,10 @@ Creates a new GoodConsole object with the following arguments:
 	- `format` - [MomentJS](http://momentjs.com/docs/#/displaying/format/) format string. Defaults to 'YYMMDD/HHmmss.SSS'.
 	- `utc` - boolean controlling Moment using [utc mode](http://momentjs.com/docs/#/parsing/utc/) or not. Defaults to `true`.
 	- `color` - a boolean specifying whether to output in color. Defaults to `true`.
+	- `headers` - a boolean specifying whether to output headers. Defaults to `false`.
+	- `query` - a boolean specifying whether to output query string. Defaults to `true`.
+	- `request` - a boolean specifying whether to output request payload. Defaults to `false`.
+	- `response` - a boolean specifying whether to output response payload. Defaults to `false`.
 
 ## Output Formats
 
