@@ -1,5 +1,5 @@
 {
-  "name": "good-console",
+  "name": "@icehunter/good-console",
   "version": "6.1.2",
   "repository": "git://github.com/hapijs/good-console",
   "description": "Console broadcasting for Good process monitor",
